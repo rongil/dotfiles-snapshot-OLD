@@ -1,0 +1,11 @@
+"Have uppercase with same effect
+command WQ wq
+command Wq wq
+command W w
+command Q q
+
+"Use spaces instead of tabs
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
